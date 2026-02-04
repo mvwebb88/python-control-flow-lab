@@ -11,8 +11,6 @@ The exercises are designed to help reinforce Python syntax while drawing clear p
 
 ## Learning Objectives
 
-By completing this lab, you will be able to:
-
 - Handle user input effectively and safely
 - Use `if`, `elif`, and `else` statements to make decisions
 - Combine logical operators (`and`, `or`, `not`) to build complex conditions
